@@ -1,4 +1,4 @@
-#  
+#  advanced Script for pull lucky blocks offers the most advanced pull lucky blocks Script, with teleport and auto-upgrade. Perfect for dominating any
 
 
 
